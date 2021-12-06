@@ -1,10 +1,11 @@
+NOtes
 useReducer
-no finiste state -> default
-no side effects included
+ - no finite state -> default
+- no side effects included
 
 
 
-{/* <div className="conclusions">
+ <div className="conclusions">
         <h2>Conclusions</h2>
         <p>
           Note 1: While coding the regular react component consumed less time,
